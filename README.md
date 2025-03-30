@@ -12,7 +12,7 @@ ai_assistant/
 ## 🚀 Installation  
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/basantrauniyar15/Friday-Voice-Assistant.git
+   git clone https://github.com/meliodas-sama1248/Friday-Voice-Assistant.git
    cd Friday-Voice-Assistant/ai_assistant
    ```
 2. **Install dependencies:**  
@@ -59,7 +59,14 @@ ai_assistant/
 - 🗣️ Hands-free operation for better accessibility.  
 - ⏳ Saves time by automating everyday tasks.  
 - 🎶 Enhances user experience with entertainment features.  
-- 🔥 Open-source and **fully customizable** to fit your needs.  
+- 🔥 Open-source and **fully customizable** to fit your needs.
 
 ---
+
+## 📜 **License**  
+
+🔒 **MIT License** – You are free to **use, modify, and distribute** AgeGuard while keeping it open-source!  
+
+---
+
 📢 **Built for efficiency, designed for simplicity.**
